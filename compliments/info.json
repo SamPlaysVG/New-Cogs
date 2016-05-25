@@ -1,0 +1,6 @@
+{
+    "AUTHOR" : "SamPlaysVG",
+    "DESCRIPTION" : "Usage: [p]compliment <user>\n[p]compliment",
+    "DISABLED" : false,
+    "NAME" : "Compliment generator"
+}
